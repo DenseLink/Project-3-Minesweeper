@@ -63,6 +63,4 @@
 
 <pre>./minesweeper</pre>
 
-<h2 id="license">License</h2>
 
-<p>This project uses the following license: <a href="#link-to-license">License Name</a>.</p>
